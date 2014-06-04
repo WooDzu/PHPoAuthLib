@@ -1,0 +1,16 @@
+{
+    "type": "library",
+    "name": "phpoauthlib",
+    "title": "PHPoAuthLib",
+    "description": "Provides oAuth 1/2 support",
+    "version": "1.0.0",
+    "author": "David Desberg",
+    "website": "https://github.com/Lusitanian/PHPoAuthLib",
+    "source": "src/OAuth",
+    "events": [
+
+    ],
+    "i18n": [
+
+    ]
+}
