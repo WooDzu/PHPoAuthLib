@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "author": "David Desberg",
     "website": "https://github.com/Lusitanian/PHPoAuthLib",
-    "source": "src/OAuth",
+    "source": "src",
     "events": [
 
     ],
